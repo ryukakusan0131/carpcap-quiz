@@ -1,0 +1,9 @@
+h1
+ {  text-align:center; /*文字横の位置*/
+    height:200px; /*文字縦の位置*/
+    line-height:200px;
+    background-color:rgba(110, 181, 63, 0.7)/*背景色*/
+ }
+
+
+ 
